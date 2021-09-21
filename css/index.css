@@ -1,0 +1,69 @@
+.theatre {
+    width: 100%;
+    height: 400px;
+}
+
+.body {
+    color: black;
+}
+
+.content {
+    text-align: left;
+}
+
+.alert {
+    width: 100%;
+    margin: auto;
+    height: 35px;
+}
+
+.container {
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.item {
+    border: 2px solid black;
+    height: 395px;
+    width: 350px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.footer {
+    border: 2px solid blue;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    background-color: gray;
+}
+
+.mov {
+    height: 300px;
+    width: 250px;
+    margin: auto;
+    padding: 20px;
+    display: flex;
+}
+
+.form {
+    display: flex;
+    margin: 2px;
+    padding: 2px;
+    justify-content: space-around;
+}
+
+.btn {
+    display: inline;
+    margin: 2px;
+    padding: 7px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background-color: #358930;
+}

@@ -1,0 +1,35 @@
+.footer {
+    border: 2px solid blue;
+    width: 100%;
+    margin: 180px auto;
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    background-color: gray;
+    margin-bottom: 0px;
+}
+
+.login {
+    margin: 10px auto;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.heading {
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    border-radius: 5px;
+    height: 20px;
+}
+
+.btn {
+    width: 20%;
+    border-radius: 5px;
+    height: 25px;
+    font-size: 15px;
+}

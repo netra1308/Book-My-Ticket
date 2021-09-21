@@ -1,0 +1,58 @@
+body {
+    font-family: 'Exo', sans-serif;
+    color: black;
+    margin: 5px;
+    padding: 0px;
+    background-color: lemonchiffon;
+}
+
+.left {
+    position: absolute;
+    display: inline-block;
+    left: 34px;
+    top: 34px;
+}
+
+.left img {
+    width: 170px;
+    filter: invert(100%);
+}
+
+.left div {
+    text-align: center;
+    color: #5cb238;
+}
+
+.mid {
+    width: 60%;
+    display: block;
+    margin: 34px auto;
+}
+
+.right {
+    position: absolute;
+    right: 34px;
+    top: 34px;
+    display: inline-block;
+    color: blanchedalmond;
+}
+
+.navbar {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline-block;
+    font-size: 20px;
+}
+
+.navbar li a:hover,
+.navbar li a.active {
+    color: rgb(65, 180, 12);
+}
+
+.navbar li a {
+    color: rgb(70, 59, 59);
+    text-decoration: none;
+    padding: 10px;
+}

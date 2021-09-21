@@ -1,0 +1,40 @@
+.heading {
+    text-align: center;
+    margin: 25px;
+    height: 50px;
+}
+
+.payment {
+    margin: 70px auto;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+input {
+    width: 80%;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.btn {
+    display: inline;
+    margin: 2px;
+    padding: 7px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background-color: #358930;
+}
+
+.footer {
+    border: 2px solid blue;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    background-color: gray;
+}

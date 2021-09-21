@@ -1,0 +1,37 @@
+.heading {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.services {
+    display: flex;
+    border: 2px solid blue;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    border: 2px solid black;
+    height: 400px;
+    width: 30%;
+    margin: 35px;
+    border-radius: 5px;
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 70px;
+}
+
+.box img {
+    height: 250px;
+    width: 70%
+}
+
+.footer {
+    border: 2px solid blue;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    background-color: gray;
+}
