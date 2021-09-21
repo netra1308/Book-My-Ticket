@@ -3,9 +3,11 @@ Install XAMPP
 
 Open XAMPP Control panal and start [apache] and [mysql] .
 
-Download project from github(https://github.com/PuneethReddyHC/event-management.git)
+Download project from github(https://github.com/netra1308/Book-My-Ticket)
 
-extract files in C:\xampp\htdocs.
+create a folder web_development in htdocs
+
+extract files in C:\xampp\htdocs\web_development .
 
 open link localhost/phpmyadmin
 
